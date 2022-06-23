@@ -450,7 +450,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Marty Cagan and others on why they love the role, what they look for when hiring graduates, and the advice they offer prospective Product Managers](https://product.careers/stories/)
 
 ## Product Case Studies
-- [ ] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
+- [X] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
 - [ ] [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt’s Rise
 - [ ] [Facebook Case Study](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook Analysis and Study
 - [ ] [Twitter Case Study](http://www.thetwittercasestudy.com/the-case-study.html) - The Twitter Case Study from the Dimensions of Strategy Series
