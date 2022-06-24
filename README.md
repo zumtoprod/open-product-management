@@ -575,7 +575,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Mock PM Interview Practice](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A) - This channel goes through various sample interview questions with FANG and other companies
 
 # Top Product Managers
-- [ ] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
+- [X] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
 - [ ] [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
 - [ ] [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
 - [ ] [Ian McAllister](https://twitter.com/ianmcall) - Director of Product at Airbnb. Former Amazon and founder of @AmazonSmile.
