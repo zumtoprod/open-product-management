@@ -550,7 +550,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Get Product Management Interview Prep Coaching](https://producthired.com/coaches?types=interview-prep) - Book an interview prep session with a product expert for your upcoming interviews
 - [ ] [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) - Preparing for PM interviews
 - [ ] [Product Alliance's Hacking the PM Interview Course](https://course.productalliance.com/a/33299/spNMFmjD) - 16hrs of video lessons and 62 pages of strategy guides on how to answer ANY question thrown your way.
-- [ ] [How to Prepare for PM interviews](https://fernandodelgado.com/blog/how-to-prepare-for-product-management-interviews) - How to Prepare for PM interviews
+- [X] [How to Prepare for PM interviews](https://fernandodelgado.com/blog/how-to-prepare-for-product-management-interviews) - How to Prepare for PM interviews
 - [X] [How to become a Product Manager (for college students)](https://fernandodelgado.com/blog/how-to-become-a-product-manager) - How to become a Product Manager (for college students)
 - [ ] [Cracking the PM Interview](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
 - [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
