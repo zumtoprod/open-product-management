@@ -576,7 +576,7 @@ and deliver behavior-based engagement every step of the way.
 
 # Top Product Managers
 - [X] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
-- [ ] [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
+- [X] [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
 - [ ] [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
 - [ ] [Ian McAllister](https://twitter.com/ianmcall) - Director of Product at Airbnb. Former Amazon and founder of @AmazonSmile.
 - [X] [Marty Cagan](https://twitter.com/cagan) - I'm a partner at Silicon Valley Product Group, specializing in product teams and product strategy
